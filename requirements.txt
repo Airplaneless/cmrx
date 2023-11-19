@@ -1,0 +1,6 @@
+h5py==3.9.0
+hdf5storage==0.1.19
+scikit-image==0.21.0
+nibabel==5.1.0
+sqlitedict==2.1.0
+pytorch-lightning==2.0.7
